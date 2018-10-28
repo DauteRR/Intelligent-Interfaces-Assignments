@@ -27,6 +27,7 @@ The scene represents a Labyrinth, as in our final project. There are two kinds o
     <img src="gifs/gif4.gif" width="600" height="314"/>
     <img src="gifs/gif5.gif" width="600" height="314"/>
 </p>
+
 * **Speed Down modifiers**: Decreases player jump and movement power. When the user collides with a Speed Down modifier, every Speed Down modifier present in the scene change its y position.
 <p align="center">
     <img src="gifs/gif3.gif" width="600" height="314"/>
