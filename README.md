@@ -39,3 +39,27 @@ There are three lightspot controlled by pressing the "l" key.
 <p align="center">
     <img src="gifs/gif7.gif" width="600" height="314"/>
 </p>
+
+## Assigment 4
+
+### Authors
+
+* Carlos Domínguez García [carlosdg](https://github.com/carlosdg)
+* Daute Rodríguez Rodríguez [DauteRR](https://github.com/DauteRR)
+
+## New features
+
+* **Pause menu**: Pressing `p` key the game is paused.
+<p align="center">
+    <img src="gifs/gif8.gif" width="600" height="314"/>
+</p>
+
+* **Speed Up size**: Added an option on pause menu to change the speed up modifiers size.
+<p align="center">
+    <img src="gifs/gif9.gif" width="600" height="314"/>
+</p>
+
+* **Light intensity**: Added an option on pause menu to change the lights intensity.
+<p align="center">
+    <img src="gifs/gif10.gif" width="600" height="314"/>
+</p>
