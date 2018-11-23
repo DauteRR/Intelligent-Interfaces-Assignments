@@ -73,5 +73,5 @@ There are three lightspot controlled by pressing the "l" key.
 * Daute Rodríguez Rodríguez [DauteRR](https://github.com/DauteRR)
 
 <p align="center">
-    <img src="gifs/gi11.gif" width="800" height="418"/>
+    <img src="gifs/gif11.gif" width="800" height="418"/>
 </p>
