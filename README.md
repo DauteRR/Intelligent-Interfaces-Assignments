@@ -63,3 +63,15 @@ There are three lightspot controlled by pressing the "l" key.
 <p align="center">
     <img src="gifs/gif10.gif" width="600" height="314"/>
 </p>
+
+## Assignment 5
+
+
+### Authors
+
+* Carlos Domínguez García [carlosdg](https://github.com/carlosdg)
+* Daute Rodríguez Rodríguez [DauteRR](https://github.com/DauteRR)
+
+<p align="center">
+    <img src="gifs/gi11.gif" width="800" height="418"/>
+</p>
