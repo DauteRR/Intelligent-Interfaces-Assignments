@@ -8,11 +8,11 @@ public class AObject : SceneObject
 	{
         if (action.Contains("right"))
         {
-            StartCoroutine(SmoothMovement(1, 1, action));
+            StartCoroutine(SmoothMovement(-1, 1, action));
         }
         else if (action.Contains("left"))
         {
-            StartCoroutine(SmoothMovement(-1, 1, action));
+            StartCoroutine(SmoothMovement(1, 1, action));
         }
     }
 
