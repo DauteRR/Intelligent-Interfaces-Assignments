@@ -76,16 +76,16 @@ There are three lightspot controlled by pressing the "l" key.
     <img src="gifs/gif11.gif" width="800" height="418"/>
 </p>
 
-## Assignment 5
-
-### Description
-
-Each time an object is pointed by the user with the reticle, the game does a request to a chat bot created with DialogFlow, depending on the response of the chat bot the object will perform some kind of action.
+## Assignment 6
 
 ### Authors
 
 * Carlos Domínguez García [carlosdg](https://github.com/carlosdg)
 * Daute Rodríguez Rodríguez [DauteRR](https://github.com/DauteRR)
+
+### Description
+
+Each time an object is pointed by the user with the reticle, the game does a request to a chat bot created with DialogFlow, depending on the response of the chat bot the object will perform some kind of action.
 
 <p align="center">
     <img src="gifs/gif12.gif" width="600" height="314"/>
